@@ -1,7 +1,7 @@
 --- 
-title: "Bookdown Example"
+title: "Bookdown: A Jamaican Example"
 author: "481 Student"
-date: "2020-09-17"
+date: "2020-09-23"
 site: bookdown::bookdown_site
 ---
 

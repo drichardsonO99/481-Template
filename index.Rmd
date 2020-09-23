@@ -1,5 +1,5 @@
 --- 
-title: "Bookdown Example"
+title: "Bookdown: A Jamaican Example"
 author: "481 Student"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
